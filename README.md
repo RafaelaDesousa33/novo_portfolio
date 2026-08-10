@@ -6,7 +6,7 @@ Este é o meu portfólio pessoal, desenvolvido para apresentar minha trajetória
 
 * HTML5
 * CSS3
-* JavaScript
+
 
 ## Sobre o projeto
 
